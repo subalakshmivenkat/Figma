@@ -94,7 +94,6 @@ font-weight: 500;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-
 color: #38BFEA;
 
 /* AI-ML */
